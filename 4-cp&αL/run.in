@@ -1,0 +1,109 @@
+potential ./nep.txt
+velocity 200
+
+time_step 0.5
+
+ensemble npt_scr 200 200 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 300 300 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 400 400 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 500 500 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 600 600 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 700 700 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 800 800 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 900 900 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 1000 1000 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 1100 1100 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 1200 1200 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 1300 1300 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 1400 1400 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 1500 1500 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 1600 1600 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 1700 1700 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 1800 1800 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 1900 1900 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 2000 2000 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 2100 2100 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 2200 2200 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 2300 2300 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 2400 2400 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 2500 2500 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 2600 2600 100 0 222 1000
+dump_thermo 2000
+run 800000
+
+ensemble npt_scr 2700 2700 100 0 222 1000
+dump_thermo 2000
+run 800000
+
