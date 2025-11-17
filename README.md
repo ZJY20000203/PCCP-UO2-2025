@@ -6,6 +6,11 @@
 - 3-elastic_constans
 - 4-cp&αL
 - 5-kappa
+  - emd
+  - hnemd
+  - nemd
+    - 8×26×8
+    - 8×30×8
 - model.xyz
 - nep.txt
 - README
