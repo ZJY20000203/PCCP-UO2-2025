@@ -15,7 +15,7 @@
 - nep.txt
 - README
 
-## Before you run:
+## Before your run:
 Copy nep.txt and model.xyz into the target property folder before running.
 
 ## Notes:
