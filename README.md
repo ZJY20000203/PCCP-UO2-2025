@@ -1,12 +1,7 @@
 # PCCP-UO2-2025
-### 1-phonon
-### 2-rdf
-### 3-elastic_constans
-### 4-cp&αL
-### 5-kappa
-### model.xyz
-### nep.txt
-### README
+
+## Contents: 
+### 1-phonon  2-rdf  3-elastic_constans  4-cp&αL  5-kappa  model.xyz  nep.txt  README
 
 ## Before you run:
 ### Copy nep.txt and model.xyz into the target property folder before running.
